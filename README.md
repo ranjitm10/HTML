@@ -119,30 +119,16 @@ Follow this <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/t
 
 <h4>What does <address> do?</h4>
    
-<address> should be used for addresses. You guessed that already.<br> 
+//<address> should be used for addresses. You guessed that already.<br> 
 But what kind of addresses, and in what context?
    
-<h4>Address context</h4>
+<h4>Address context:</h4>
 	
 
-Invite your team to #30DaysofHTML
+//<address> was originally used to indicate contact information for the page owner.<br> 
+It has since evolved to include any type of contact information, generally the address of an article author or the address of a website.
 
-#30DaysofHTML Day 1: <address>
-It's not just for postal addresses
+🔹 If "<address>" is placed within an <article>, it is assumed this is the article <b>author's address</b>.
 
-Jen Kramer
-Apr 1	
-
-Comment
-Share
-Current category: Who said what from where
-What does <address> do?
-<address> should be used for addresses. You guessed that already. But what kind of addresses, and in what context?
-
-Address context
-<address> was originally used to indicate contact information for the page owner. It has since evolved to include any type of contact information, generally the address of an article author or the address of a website.
-
-🔹 If <address> is placed within an <article>, it is assumed this is the article <b>author's address</b>.
-
-🔸 If <address> is placed closest to the <body> tag, it's assumed to be the <b>website organization's address</b>.<br>
+🔸 If "<address>" is placed closest to the <body> tag, it's assumed to be the <b>website organization's address</b>.<br>
    Usually this type of information is found in a page <header> or <footer>.
