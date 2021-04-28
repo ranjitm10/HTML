@@ -39,7 +39,8 @@
             
       <h1> - <h6>, <p>, <ul>, <ol>, <li>, <hr>, <blockquote>, <pre> all represent block level elements.
 
-A Block-level element occupies the entire horizontal space of its parent element (container), and vertical space equal to the height of its contents.
+- A Block-level element occupies the entire horizontal space of its parent element (container), and vertical space equal to the height of its contents.
+- Refer this <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol#attributes">doc</a> for the different supported types.
 
 <hr>
 
@@ -101,11 +102,47 @@ A Block-level element occupies the entire horizontal space of its parent element
                 </tbody>
             </table>
             
-The <b>table</b> tag is a wrapper for the table.<br>
-The <b>thead</b> tag encloses the head of the table.<br>
-The <b>tbody</b> tag encloses the body of the table.<br>
-The <b>tr</b> tag encloses each row of the table.<br>
-The <b>th</b> tag encloses each cell of the table header.<br>
-The <b>td</b> tag encloses each cell of the table body.<br>
+- The <b>table</b> tag is a wrapper for the table.<br>
+- The <b>thead</b> tag encloses the head of the table.<br>
+- The <b>tbody</b> tag encloses the body of the table.<br>
+- The <b>tr</b> tag encloses each row of the table.<br>
+- The <b>th</b> tag encloses each cell of the table header.<br>
+- The <b>td</b> tag encloses each cell of the table body.<br>
 
 Follow this <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table">doc</a> for more details about the <b>table</b> element.
+
+<h1>30DaysofHTML</h1>
+
+<hr>
+
+<h3>Day 1: <address></h3>
+
+<h4>What does <address> do?</h4>
+   
+<address> should be used for addresses. You guessed that already.<br> 
+But what kind of addresses, and in what context?
+   
+<h4>Address context</h4>
+	
+
+Invite your team to #30DaysofHTML
+
+#30DaysofHTML Day 1: <address>
+It's not just for postal addresses
+
+Jen Kramer
+Apr 1	
+
+Comment
+Share
+Current category: Who said what from where
+What does <address> do?
+<address> should be used for addresses. You guessed that already. But what kind of addresses, and in what context?
+
+Address context
+<address> was originally used to indicate contact information for the page owner. It has since evolved to include any type of contact information, generally the address of an article author or the address of a website.
+
+🔹 If <address> is placed within an <article>, it is assumed this is the article <b>author's address</b>.
+
+🔸 If <address> is placed closest to the <body> tag, it's assumed to be the <b>website organization's address</b>.<br>
+   Usually this type of information is found in a page <header> or <footer>.
