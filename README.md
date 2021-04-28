@@ -10,7 +10,8 @@
    - HTML blocks are building blocks of HTML pages. HTML allows us to add a variety of objects to a web page including tables, images, videos, forms, etc.
 
 <hr>
-<h6>Intro & Inline Elements</h6> :
+
+# <h4>Intro & Inline Elements</h4> :
             The simplest way to write HTML is just to write some text inside Elements.
             
         <br>, <b>, <i>, <u>, <sup>, <sub>, <code>, <a> are all rendered as inline elements.
@@ -20,7 +21,7 @@
             
 <hr>
 
-#Block Elements :
+# <h4>Block Elements</h4> :
 
 1- The heading tags are h1, h2, h3, h4, h5 and h6<br>
 2- The pragraph tags are p<br>
@@ -39,6 +40,8 @@
       <h1> - <h6>, <p>, <ul>, <ol>, <li>, <hr>, <blockquote>, <pre> all represent block level elements.
 
 A Block-level element occupies the entire horizontal space of its parent element (container), and vertical space equal to the height of its contents.
-            
-#Media And Tables : 
+
+<hr>
+
+# <h4>Media And Tables</h4> : 
 
