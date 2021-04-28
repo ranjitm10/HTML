@@ -13,7 +13,8 @@
 #Intro & Inline Elements :
             The simplest way to write HTML is just to write some text inside Elements.
             
-  <br>, <b>, <i>, <u>, <sup>, <sub>, <code>, <a> are all rendered as inline elements.
+        <br>, <b>, <i>, <u>, <sup>, <sub>, <code>, <a> are all rendered as inline elements.
+  
   These elements render on the same line and do not break the flow of content.
             
             
@@ -35,7 +36,7 @@
             D E   F G
             H I</pre>
             
-<h1> - <h6>, <p>, <ul>, <ol>, <li>, <hr>, <blockquote>, <pre> all represent block level elements.
+      <h1> - <h6>, <p>, <ul>, <ol>, <li>, <hr>, <blockquote>, <pre> all represent block level elements.
 
 A Block-level element occupies the entire horizontal space of its parent element (container), and vertical space equal to the height of its contents.
             
