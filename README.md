@@ -12,8 +12,8 @@
             These elements render on the same line and do not break the flow of content.
             
 #Block Elements :
-            1- The heading tags are <h1>, <h2>, <h3>, <h4>, <h5> and <h6>
-            2- The pragraph tags are <p>Pragraph</p>
+            1- The heading tags are //<h1>, <h2>, <h3>, <h4>, <h5> and <h6>//
+            2- The pragraph tags are //<p>Pragraph</p>//
             3- Lists - a) orderList <ol> <li></li> </ol>   b) unordered List <ul> <li><li> </ul>
             4- Blockquote - The HTML <blockquote> element indicates that the enclosed text is an extended quotation. Usually, this is rendered visually by indentation.
             5- Preformatted Text:
