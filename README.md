@@ -150,3 +150,5 @@ Address example
 💯 Check out <a href="https://nssdc.gsfc.nasa.gov/planetary/factsheet/">NASA's planetary fact sheet</a>,<br> 
 which contains an old-school "address" tag near the bottom of the page.<br> 
 Cheers to Dr. Dave Williams for using this tag correctly!
+
+<h3>Day 2: blockquote and q </h3>
