@@ -4,13 +4,13 @@
 
 <hr>
 
-#Introduction :-
+<h6>Introduction</h6> :-
 
    - HTML (HyperText Markup Language) is the language in which websites are written. They form the skeleton of the websites, storing the content in a structured manner.
    - HTML blocks are building blocks of HTML pages. HTML allows us to add a variety of objects to a web page including tables, images, videos, forms, etc.
 
 <hr>
-#Intro & Inline Elements :
+<h6>Intro & Inline Elements</h6> :
             The simplest way to write HTML is just to write some text inside Elements.
             
         <br>, <b>, <i>, <u>, <sup>, <sub>, <code>, <a> are all rendered as inline elements.
