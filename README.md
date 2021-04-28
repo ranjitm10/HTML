@@ -101,11 +101,11 @@ A Block-level element occupies the entire horizontal space of its parent element
                 </tbody>
             </table>
             
-- The <b>table</b> tag is a wrapper for the table.
-- The <b>thead</b> tag encloses the head of the table.
-- The <b>tbody</b> tag encloses the body of the table.
-- The <b><tr></b> tag encloses each row of the table.
-- The <b><th></b> tag encloses each cell of the table header.
-- The <b><td></b> tag encloses each cell of the table body.
+- The <b>table</b> tag is a wrapper for the table.<br>
+- The <b>thead</b> tag encloses the head of the table.<br>
+- The <b>tbody</b> tag encloses the body of the table.<br>
+- The <b><tr></b> tag encloses each row of the table.<br>
+- The <b><th></b> tag encloses each cell of the table header.<br>
+- The <b><td></b> tag encloses each cell of the table body.<br>
 
-Follow this <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table"> for more details about the <table> element.
+Follow this <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table">doc</a> for more details about the <table> element.
