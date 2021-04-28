@@ -132,3 +132,16 @@ It has since evolved to include any type of contact information, generally the a
 
 🔸 If "address" is placed closest to the <body> tag, it's assumed to be the <b>website organization's address</b>.<br>
    Usually this type of information is found in a page header or footer.
+	
+<h4>Kinds of addresses</h4>
+✅ Any information that's used to contact the website organization or the article author is fair game. That might include:<br>
+
+-email addresses<br>
+
+-social media links<br>
+
+-phone numbers<br>
+
+The contact person's name may also be included in an address element.<br>
+
+⛔️ However, non-contact information is to be avoided.<br>
