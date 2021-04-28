@@ -115,7 +115,7 @@ Follow this <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/t
 
 <hr>
 
-<h3>Day 1: <address></h3>
+<h3>Day 1: address</h3>
 
 <h4>What does <address> do?</h4>
    
@@ -151,4 +151,45 @@ Address example
 which contains an old-school "address" tag near the bottom of the page.<br> 
 Cheers to Dr. Dave Williams for using this tag correctly!
 
+<hr>
+
 <h3>Day 2: blockquote and q </h3>
+
+"blockquote" is for block-level quotes.<br>
+"q" is used for inline quotes.<br>
+
+When to use "blockquote"<br>
+
+✅ You're quoting an extended passage from a book, article, website, or some other work.<br>
+    By making this passage stand alone, it's clear that this is something you are quoting, not something that you originally wrote.<br>
+
+✅ You're quoting what someone said as a report, not as a conversation.<br>
+
+✅ Somewhere, there's a citation that could go with this.<br>
+
+When to use "q"<br>
+🏁 You're quoting a short passage from a book, article, website, or another work. Typically this is a few words or a line or two. Anything longer should probably use blockquote.<br>
+
+🏁 It's not a conversation.<br>
+
+🏁 There's a citation that could go with it.<br>
+
+When not to use <blockquote> or "q"
+⛔️ Dialog - if it's a conversation, it's not a quote.<br>
+
+⛔️ Sarcasm or "air quotes" - there is a double quote key on your keyboard for these. It's not just for "code."<br>
+
+❌ ❌ ❌ PLEASE do not use <blockquote> for indents. CSS is made for indents. Use it.<br>
+
+⛔️ Likewise, do not use <q> in particular for conversations.<br>
+    It has built-in curly quotes before and after your quotation.<br>
+    They're pretty and tempting. But they are not for your conversation.<br>
+
+⛔️ Did I mention that <q> is not for conversations?<br>
+	
+<hr>
+
+<h4>Common attributes</h4>
+
+👀 "cite" and the cite attribute are commonly associated with these elements, for obvious reasons.<br>
+    Your original thoughts or writing are not included in "blockquote" and "q".<br>
