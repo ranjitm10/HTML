@@ -193,3 +193,7 @@ When not to use "blockquote" or "q"
 
 👀 "cite" and the cite attribute are commonly associated with these elements, for obvious reasons.<br>
     Your original thoughts or writing are not included in "blockquote" and "q".<br>
+    
+    
+<h3>Day 3: "cite" </h3>
+
