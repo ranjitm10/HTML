@@ -11,7 +11,7 @@
 
 <hr>
 
-<h4>Intro & Inline Elements</h4> :
+<h3>Intro & Inline Elements</h3> :
             The simplest way to write HTML is just to write some text inside Elements.
             
         <br>, <b>, <i>, <u>, <sup>, <sub>, <code>, <a> are all rendered as inline elements.
@@ -21,7 +21,7 @@
             
 <hr>
 
-# <h4>Block Elements</h4> :
+<h3>Block Elements</h3> :
 
 1- The heading tags are h1, h2, h3, h4, h5 and h6<br>
 2- The pragraph tags are p<br>
@@ -43,5 +43,5 @@ A Block-level element occupies the entire horizontal space of its parent element
 
 <hr>
 
-# <h4>Media And Tables</h4> : 
+<h3>Media And Tables</h3> : 
 
