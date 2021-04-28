@@ -174,7 +174,7 @@ When to use "q"<br>
 
 🏁 There's a citation that could go with it.<br>
 
-When not to use <blockquote> or "q"
+When not to use "blockquote" or "q"
 ⛔️ Dialog - if it's a conversation, it's not a quote.<br>
 
 ⛔️ Sarcasm or "air quotes" - there is a double quote key on your keyboard for these. It's not just for "code."<br>
