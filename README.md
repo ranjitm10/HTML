@@ -181,11 +181,11 @@ When not to use "blockquote" or "q"
 
 ❌ ❌ ❌ PLEASE do not use <blockquote> for indents. CSS is made for indents. Use it.<br>
 
-⛔️ Likewise, do not use <q> in particular for conversations.<br>
-    It has built-in curly quotes before and after your quotation.<br>
-    They're pretty and tempting. But they are not for your conversation.<br>
+ Likewise, do not use <q> in particular for conversations.<br>
+ It has built-in curly quotes before and after your quotation.<br>
+ They're pretty and tempting. But they are not for your conversation.<br>
 
-⛔️ Did I mention that <q> is not for conversations?<br>
+Did I mention that <q> is not for conversations?<br>
 	
 	
 <hr>
