@@ -128,9 +128,9 @@ But what kind of addresses, and in what context?
 "address" was originally used to indicate contact information for the page owner.<br> 
 It has since evolved to include any type of contact information, generally the address of an article author or the address of a website.
 
-🔹 If "address" is placed within an <article>, it is assumed this is the article <b>author's address</b>.
+🔹 If "address" is placed within an 'article', it is assumed this is the article <b>author's address</b>.
 
-🔸 If "address" is placed closest to the <body> tag, it's assumed to be the <b>website organization's address</b>.<br>
+🔸 If "address" is placed closest to the 'body' tag, it's assumed to be the <b>website organization's address</b>.<br>
    Usually this type of information is found in a page header or footer.
 	
 <h4>Kinds of addresses</h4>
@@ -179,7 +179,7 @@ When not to use "blockquote" or "q"
 
 ⛔️ Sarcasm or "air quotes" - there is a double quote key on your keyboard for these. It's not just for "code."<br>
 
-❌ ❌ ❌ PLEASE do not use <blockquote> for indents. CSS is made for indents. Use it.<br>
+<b>PLEASE do not use <blockquote> for indents. CSS is made for indents. Use it.</b><br>
 
  Likewise, do not use <q> in particular for conversations.<br>
  It has built-in curly quotes before and after your quotation.<br>
