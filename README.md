@@ -195,6 +195,10 @@ When not to use "blockquote" or "q"
     Your original thoughts or writing are not included in "blockquote" and "q".<br>
     
     
+    
+<hr>
+    
+    
 <h3>Day 3: "cite" </h3>
 
 <b>cite</b> is for the title of a work, which can be quoted, referenced in detail, or mentioned in passing. 
@@ -203,7 +207,11 @@ If you're referring to something that's not your own, you need to cite it in som
 
 	Example:
 	
+	<p>Baby Yoda in <cite>The Mandalorian</cite> is the cutest thing ever!</p> 
+	
 
+
+<hr>
 
 <h3>Day 4: "dfn" </h3>
 
@@ -214,3 +222,7 @@ The most obvious usage is to indicate the term being described within the contex
 
 	Example:
 	<p>My son thinks he is <dfn>Godzilla</dfn>, who is generally depicted as an enormous, violent, prehistoric sea monster awakened and empowered by nuclear radiation. 		It's true, there are similarities.</p> 
+
+<hr>
+
+<h3>Day 5: "Description lists and ' dl ', ' dt ', 'dd' " </h3>
