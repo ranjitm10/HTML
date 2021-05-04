@@ -197,3 +197,8 @@ When not to use "blockquote" or "q"
     
 <h3>Day 3: "cite" </h3>
 
+<b>cite</b> is for the title of a work, which can be quoted, referenced in detail, or mentioned in passing. 
+"Works" are books, songs, paintings, programs, TV shows, operas, social media posts, and so much more. 
+If you're referring to something that's not your own, you need to cite it in some way.
+
+<p>Baby Yoda in <cite>The Mandalorian</cite> is the cutest thing ever!</p>
