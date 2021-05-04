@@ -187,6 +187,7 @@ When not to use "blockquote" or "q"
 
 ⛔️ Did I mention that <q> is not for conversations?<br>
 	
+	
 <hr>
 
 <h4>Common attributes</h4>
@@ -226,3 +227,15 @@ The most obvious usage is to indicate the term being described within the contex
 <hr>
 
 <h3>Day 5: "Description lists and ' dl ', ' dt ', 'dd' " </h3>
+
+
+We focus on the three elements that make up a description list, historically called the definition list: 'dl', 'dt', and 'dd'.<br>
+
+The meaning of each tag is as follows:<br>
+
+'dl' description list (or definition list)<br>
+
+'dt' description name (or definition term)<br>
+
+'dd' description details (or definition)<br>
+
