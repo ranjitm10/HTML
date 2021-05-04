@@ -201,4 +201,16 @@ When not to use "blockquote" or "q"
 "Works" are books, songs, paintings, programs, TV shows, operas, social media posts, and so much more. 
 If you're referring to something that's not your own, you need to cite it in some way.
 
-<p>Baby Yoda in <cite>The Mandalorian</cite> is the cutest thing ever!</p>
+	Example:
+	
+
+
+<h3>Day 4: "dfn" </h3>
+
+"dfn" is used to indicate the term being defined within the context of a definition phrase or sentence.
+Ways to use "dfn"
+The most obvious usage is to indicate the term being described within the context of the phrase or sentence. Here,
+"Godzilla" is defined by the rest of the paragraph.
+
+	Example:
+	<p>My son thinks he is <dfn>Godzilla</dfn>, who is generally depicted as an enormous, violent, prehistoric sea monster awakened and empowered by nuclear radiation. 		It's true, there are similarities.</p> 
