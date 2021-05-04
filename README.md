@@ -181,15 +181,12 @@ When not to use "blockquote" or "q"
 
 <b>PLEASE do not use <blockquote> for indents. CSS is made for indents. Use it.</b><br>
 
- Likewise, do not use <q> in particular for conversations.<br>
- It has built-in curly quotes before and after your quotation.<br>
- They're pretty and tempting. But they are not for your conversation.<br>
+-Likewise, do not use <q> in particular for conversations.<br>
+-It has built-in curly quotes before and after your quotation.<br>
+-They're pretty and tempting. But they are not for your conversation.<br>
 
 Did I mention that <q> is not for conversations?<br>
 	
-	
-<hr>
-
 <h4>Common attributes</h4>
 
 👀 "cite" and the cite attribute are commonly associated with these elements, for obvious reasons.<br>
@@ -239,3 +236,13 @@ The meaning of each tag is as follows:<br>
 
 'dd' description details (or definition)<br>
 
+	Example:
+	<dl>
+   	<dt>Target</dt>
+     	<dd>dish soap</dd>
+     	<dd>socks</dd>
+   	<dt>Fresh Thyme</dt>
+     	<dd>coconut water</dd>
+     	<dd>strawberries</dd>
+     	<dd>aged gouda</dd>
+	</dl> 
